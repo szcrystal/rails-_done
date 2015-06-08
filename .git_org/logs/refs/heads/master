@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 0a17b201e545ac25484aed7b73d21381c93193bb vagrant <vagrant@localhost.localdomain> 1432442825 +0000	commit (initial): Finish User SignUp
+0a17b201e545ac25484aed7b73d21381c93193bb bcf081446b961e5e36238b618a391df1e5512074 vagrant <vagrant@localhost.localdomain> 1432442985 +0000	commit: Add SSL
+bcf081446b961e5e36238b618a391df1e5512074 314fd942b75e18a280ebe47bda8b2b04f642fedb szcrystal <vagrant@localhost.localdomain> 1432456844 +0000	commit: SignIn SignOut end
+314fd942b75e18a280ebe47bda8b2b04f642fedb c76eb45adb6aad8db11badbee447013020ea4a42 szcrystal <vagrant@localhost.localdomain> 1432781230 +0000	commit: before destroy
+c76eb45adb6aad8db11badbee447013020ea4a42 e570aad38145fb373574aa304a7f3ba1a6719013 szcrystal <vagrant@localhost.localdomain> 1432781867 +0000	commit: foo
+e570aad38145fb373574aa304a7f3ba1a6719013 8b4c16af20a6a29fbe8696928d8fa64b4a2f7792 szcrystal <vagrant@localhost.localdomain> 1432783632 +0000	commit: why2
+8b4c16af20a6a29fbe8696928d8fa64b4a2f7792 ce30b7a8b0f32cd8d5f95b90030f628f8d874679 szcrystal <vagrant@localhost.localdomain> 1433662508 +0000	commit: Finish destroy action
+ce30b7a8b0f32cd8d5f95b90030f628f8d874679 9611a47648984e8d3fac0c2de05f9e0c496883bf szcrystal <vagrant@localhost.localdomain> 1433664040 +0000	commit: Finish Destroy action 2
+9611a47648984e8d3fac0c2de05f9e0c496883bf 41ddb8debf6f671b18ee8799f3e0a95349519eb3 szcrystal <vagrant@localhost.localdomain> 1433725687 +0000	commit: second
+41ddb8debf6f671b18ee8799f3e0a95349519eb3 e13fd4c905aa6ac0144d9851c33c1ed800c2389b szcrystal <vagrant@localhost.localdomain> 1433730608 +0000	commit: 3
