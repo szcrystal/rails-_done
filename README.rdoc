@@ -1,5 +1,23 @@
 == README
 
+2015/06/12 push
+
+192.168.10.12:3000 on vagrant(fedora20)
+
+cd dev_three
+vagrant up
+vagrant ssh
+cd /vagrant/railsproj/second_app
+rails s (finish: ctrl+C)
+** when rails server not working, do vagrant reload 
+
+Heroku url:
+https://murmuring-scrubland-5516.herokuapp.com/
+
+How about rails on apache ?
+
+
+--------------------
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
